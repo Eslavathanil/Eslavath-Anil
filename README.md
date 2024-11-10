@@ -5,7 +5,18 @@
 - 🌱 I’m currently learning **Node JS and React JS**
 
 - 📫 How to reach me **chinnueslavath@gmail.com**
+- ## 👋 Introduction
+Hello! I'm Eslavath Anil, a passionate full-stack developer from India. Welcome to my GitHub space! Here, I share a variety of coding projects that solve real-world problems and explore innovative approaches.
+## 📌 About Me
+Coding is more than just a job for me; it's a way to make a positive impact. When I'm not coding, I create tech-related content on YouTube, sharing my insights and learning journey with others. I'm always eager to dive into new technologies and methodologies that can drive meaningful change.
 
+## 🔧 Skills
+I'm proficient in a range of technologies, including:
+
+Front-End: HTML, CSS, JavaScript, React, Angular
+Back-End: Node.js, Java (Jooby), Spring Boot, Express
+Databases: MySQL, MongoDB
+Others: Git, Docker, RESTful APIs
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eslavath-anil630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eslavath-anil630" height="30" width="40" /></a>
